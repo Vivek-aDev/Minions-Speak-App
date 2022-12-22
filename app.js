@@ -1,1 +1,2 @@
-console.log(vivek);
+console.log("vivek");
+prompt("vivek");
